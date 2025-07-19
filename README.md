@@ -1,6 +1,13 @@
 # 👨‍💼 Employee Salary Prediction Application
+[![Production Link](https://img.shields.io/badge/Web-Live-green)](https://employee-salary-prediction-pf3cvtsncjkckewoaa7gmy.streamlit.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Employee--Salary--Prediction-blue)](https://github.com/thehimanshubansal/Employee-Salary-Prediction)
 
 A machine learning-powered web application project built with Streamlit that predicts whether an employee earns above or below $50K annually based on various demographic and employment features. The model uses **XGBoost** classifier, selected after comprehensive model comparison for optimal accuracy.
+
+## 🌐 Live Demo
+Try the app now: [Employee Salary Prediction App](https://employee-salary-prediction-pf3cvtsncjkckewoaa7gmy.streamlit.app/)
+
+The app is deployed on Streamlit Community Cloud and accessible to everyone!
 
 ## 🚀 Features
 
